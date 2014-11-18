@@ -36,7 +36,7 @@ header {
     display: inline-block;
     height: 275px;
     width: 35%;
-    background: url('../../images/header-1.jpg') no-repeat;
+    background: url('/images/header-1.jpg') no-repeat;
     background-size: cover;
     padding: 0;
     position: relative;
@@ -52,7 +52,7 @@ header {
     display: inline-block;
     height: 275px;
     width: 30%;
-    background: url('../../images/header-2.jpg') no-repeat;
+    background: url('/images/header-2.jpg') no-repeat;
     background-size: cover;
   }
 
@@ -61,7 +61,7 @@ header {
     vertical-align: top;
     width: 35%;
     height: 275px;
-    background: url('../../images/header-3.jpg') no-repeat;
+    background: url('/images/header-3.jpg') no-repeat;
     background-size: cover;
   }
 
@@ -131,7 +131,7 @@ header {
 }
 
 .sub-content {
-  background: url('../../images/orange-bg.jpg') no-repeat;
+  background: url('/images/orange-bg.jpg') no-repeat;
   background-size: cover;
   height: 170px;
 
